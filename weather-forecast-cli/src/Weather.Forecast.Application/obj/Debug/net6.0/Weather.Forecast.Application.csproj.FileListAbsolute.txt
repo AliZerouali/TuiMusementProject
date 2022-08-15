@@ -1,0 +1,15 @@
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\bin\Debug\net6.0\Weather.Forecast.Application.deps.json
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\bin\Debug\net6.0\Weather.Forecast.Application.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\bin\Debug\net6.0\Weather.Forecast.Application.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\bin\Debug\net6.0\Weather.Forecast.Domain.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\bin\Debug\net6.0\Weather.Forecast.Domain.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.csproj.AssemblyReference.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.AssemblyInfoInputs.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.AssemblyInfo.cs
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.csproj.CoreCompileInputs.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.csproj.CopyComplete
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\refint\Weather.Forecast.Application.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\Weather.Forecast.Application.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Application\obj\Debug\net6.0\ref\Weather.Forecast.Application.dll

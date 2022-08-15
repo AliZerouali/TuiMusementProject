@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WeatherForecastProjects\\weather-forecast-cli\\tests\\Weather.Forecast.Infrastructure.UnitTests\\Weather.Forecast.Infrastructure.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\Weather.Forecast.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\Weather.Forecast.Application.csproj",
+        "projectName": "Weather.Forecast.Application",
+        "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\Weather.Forecast.Application.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\Weather.Forecast.Domain.csproj": {
+                "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\Weather.Forecast.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\Weather.Forecast.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\Weather.Forecast.Domain.csproj",
+        "projectName": "Weather.Forecast.Domain",
+        "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\Weather.Forecast.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj",
+        "projectName": "Weather.Forecast.Infrastructure",
+        "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\Weather.Forecast.Application.csproj": {
+                "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\Weather.Forecast.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WeatherForecastProjects\\weather-forecast-cli\\tests\\Weather.Forecast.Infrastructure.UnitTests\\Weather.Forecast.Infrastructure.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WeatherForecastProjects\\weather-forecast-cli\\tests\\Weather.Forecast.Infrastructure.UnitTests\\Weather.Forecast.Infrastructure.UnitTests.csproj",
+        "projectName": "Weather.Forecast.Infrastructure.UnitTests",
+        "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\tests\\Weather.Forecast.Infrastructure.UnitTests\\Weather.Forecast.Infrastructure.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\tests\\Weather.Forecast.Infrastructure.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\Weather.Forecast.Application.csproj": {
+                "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Application\\Weather.Forecast.Application.csproj"
+              },
+              "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\Weather.Forecast.Domain.csproj": {
+                "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Domain\\Weather.Forecast.Domain.csproj"
+              },
+              "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj": {
+                "projectPath": "C:\\WeatherForecastProjects\\weather-forecast-cli\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

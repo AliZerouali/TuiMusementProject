@@ -1,0 +1,17 @@
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\bin\Debug\net6.0\Weather.Forecast.Infrastructure.deps.json
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\bin\Debug\net6.0\Weather.Forecast.Infrastructure.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\bin\Debug\net6.0\Weather.Forecast.Infrastructure.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\bin\Debug\net6.0\Weather.Forecast.Application.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\bin\Debug\net6.0\Weather.Forecast.Domain.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\bin\Debug\net6.0\Weather.Forecast.Application.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\bin\Debug\net6.0\Weather.Forecast.Domain.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.csproj.AssemblyReference.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.AssemblyInfoInputs.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.AssemblyInfo.cs
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.csproj.CoreCompileInputs.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.csproj.CopyComplete
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\refint\Weather.Forecast.Infrastructure.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\Weather.Forecast.Infrastructure.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Infrastructure\obj\Debug\net6.0\ref\Weather.Forecast.Infrastructure.dll

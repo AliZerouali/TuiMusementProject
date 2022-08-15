@@ -1,0 +1,12 @@
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\bin\Debug\net6.0\Weather.Forecast.Domain.deps.json
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\bin\Debug\net6.0\Weather.Forecast.Domain.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\bin\Debug\net6.0\Weather.Forecast.Domain.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\Weather.Forecast.Domain.csproj.AssemblyReference.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\Weather.Forecast.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\Weather.Forecast.Domain.AssemblyInfoInputs.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\Weather.Forecast.Domain.AssemblyInfo.cs
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\Weather.Forecast.Domain.csproj.CoreCompileInputs.cache
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\Weather.Forecast.Domain.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\refint\Weather.Forecast.Domain.dll
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\Weather.Forecast.Domain.pdb
+C:\WeatherForecastProjects\weather-forecast-cli\src\Weather.Forecast.Domain\obj\Debug\net6.0\ref\Weather.Forecast.Domain.dll
